@@ -13,3 +13,5 @@ C:\Users\lucasn\Documents\workspace\ExemploExplorando\obj\Debug\net6.0\refint\Ex
 C:\Users\lucasn\Documents\workspace\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 C:\Users\lucasn\Documents\workspace\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\lucasn\Documents\workspace\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+C:\Users\lucasn\Documents\workspace\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lucasn\Documents\workspace\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete

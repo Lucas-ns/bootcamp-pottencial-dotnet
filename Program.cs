@@ -1,14 +1,56 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using ExemploExplorando.Models;
+using Newtonsoft.Json;
 
 
-int numero = 15;
-bool ehPar = false;
+List<Venda> listaVendas = new List<Venda>();
 
-// IF ternario
-ehPar = numero % 2 == 0;
-Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+
+Venda v1 = new Venda(1, "Material de escritório", 25.00M);
+Venda v2 = new Venda(2, "Licença de Software", 110.00M);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+
+Console.WriteLine(serializado);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int numero = 15;
+// bool ehPar = false;
+
+// // IF ternario
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
 
 
 // if (numero % 2 == 0)
@@ -45,17 +87,6 @@ Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
 // (string nome, string sobrenome) = p1;
 
 // Console.WriteLine($"{nome} {sobrenome}");
-
-
-
-
-
-
-
-
-
-
-
 
 
 
