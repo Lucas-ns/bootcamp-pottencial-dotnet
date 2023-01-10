@@ -28,3 +28,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// INICIALIZAR PROJETO COM SWAGGER => dotnet watch run

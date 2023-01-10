@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HL8kwIaPKh3hLFkIOS/cwLWn6CWoVxv/ZIXOQEW6Llnn77Z5koObWgOaMhwNTVdFuYKmekvUQA7QykEXXWb7xQ==",
+  "dgSpecHash": "E17k73sDZcgYnOus04uBTAtSHEJjxk0WJHOUIrhofbmpu6PLoxwtd7Z6bPcXFl7iJxrV/sP97/CGot5r38Q1oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucasn\\Documents\\workspace\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucasn\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lucasn\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

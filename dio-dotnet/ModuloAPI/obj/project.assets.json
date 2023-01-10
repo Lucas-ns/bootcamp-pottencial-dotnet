@@ -3690,11 +3690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucasn\\Documents\\workspace\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
       "projectName": "ModuloAPI",
-      "projectPath": "C:\\Users\\lucasn\\Documents\\workspace\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
+      "projectPath": "C:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ModuloAPI\\ModuloAPI.csproj",
       "packagesPath": "C:\\Users\\lucasn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucasn\\Documents\\workspace\\dio-dotnet\\ModuloAPI\\obj\\",
+      "outputPath": "C:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ModuloAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucasn\\AppData\\Roaming\\NuGet\\NuGet.Config"
