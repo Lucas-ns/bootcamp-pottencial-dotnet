@@ -1,0 +1,12 @@
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\bin\Debug\net6.0\Dio.Common.deps.json
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\bin\Debug\net6.0\Dio.Common.dll
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\bin\Debug\net6.0\Dio.Common.pdb
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.csproj.AssemblyReference.cache
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.AssemblyInfoInputs.cache
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.AssemblyInfo.cs
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.csproj.CoreCompileInputs.cache
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.dll
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\refint\Dio.Common.dll
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\Dio.Common.pdb
+C:\Users\lucasn\Documents\workspace\dio-dotnet\Dio.Common\obj\Debug\net6.0\ref\Dio.Common.dll
