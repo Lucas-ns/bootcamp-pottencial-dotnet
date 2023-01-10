@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\lucasn\\Documents\\workspace\\ExemploExplorando\\dio-dotnet\\ProjetoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
